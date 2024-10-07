@@ -16,7 +16,7 @@
 
 ### Pre-requisites
 
-- Install [Node](https://nodejs.org/en/download/package-manager) - Version 16
+- Install [Node](https://nodejs.org/en/download/package-manager) - Version 18.0.0
 - Install [npm](https://docs.npmjs.com/about-npm-versions)
 
 ### Run Locally
@@ -24,7 +24,7 @@
 - Clone the project (SSH)
 
 ```bash
-  git clone git@github.com:eveliniasenza20/challenge.git
+  git clone git@github.com:eveliniasenza20/challenge.git // https://github.com/eveliniasenza20/challenge.git
 ```
 
 ```bash
